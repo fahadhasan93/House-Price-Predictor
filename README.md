@@ -116,30 +116,7 @@ Navigate to [http://localhost:3000](http://localhost:3000)
    - Feature importance rankings
    - Training dataset information
 
-## 🏗️ Project Structure
 
-```
-house-price-predictor/
-├── app/
-│   ├── api/
-│   │   └── predict/
-│   │       └── route.ts          # Prediction API endpoint
-│   ├── globals.css               # Global styles
-│   ├── layout.tsx               # Root layout
-│   └── page.tsx                 # Main application page
-├── components/
-│   └── ui/                      # shadcn/ui components
-├── scripts/
-│   ├── data_analysis.py         # Data exploration & model training
-│   ├── model_training.py        # Enhanced model training
-│   └── data_visualization.py    # Data visualization scripts
-├── lib/
-│   └── utils.ts                 # Utility functions
-├── public/                      # Static assets
-├── README.md                    # Project documentation
-├── package.json                 # Node.js dependencies
-└── tailwind.config.ts          # Tailwind configuration
-```
 
 ## 🔌 API Documentation
 
