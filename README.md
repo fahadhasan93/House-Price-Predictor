@@ -217,9 +217,9 @@ python scripts/data_visualization.py
 ```
 
 ## 🎨 Screenshots
-<img width="1049" height="655" alt="Screenshot From 2025-07-19 23-54-14" src="https://github.com/user-attachments/assets/bb261136-56d9-46f4-b47a-5f89649679f7" />
+<img width="1049" height="655" alt="Screenshot From 2025-07-19 23-54-14" src="https://github.com/user-attachments/assets/831ae5dd-a8f9-4c2e-adc5-cda790e00488" />
+<img width="1049" height="655" alt="Screenshot From 2025-07-19 23-57-20" src="https://github.com/user-attachments/assets/eccda832-377a-4192-bc8f-b0e2ee1b5ee0" />
 
-<img width="1049" height="655" alt="Screenshot From 2025-07-19 23-57-20" src="https://github.com/user-attachments/assets/3fee2737-ee24-478e-a403-65fb48185044" />
 
 
 ### Main Prediction Interface
